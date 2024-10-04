@@ -1,6 +1,6 @@
 # Wrangling Cloud Identity and Access Workshop
 
-![hero]('static/_img/readme/the_cyber.png')
+![image]('static/_img/readme/the_cyber.png')
 
 Welcome to the Wrangling Cloud Identity Workshop the runtime for this workshop is designed to run 2 hours.
 
