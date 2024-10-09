@@ -12,33 +12,29 @@ Welcome to the Wrangling Cloud Identity Workshop the runtime for this workshop i
 
 ## Labs 
 
-### Presentation - Understanding Risk
-* [Presentation Component]('https://example.xyz')
+### Presentation - Understanding Identity Risk
+* [Presentation Component](https://docs.google.com/presentation/d/1IxsQGPX6nLpQd_t7WtDKfePjVdQWyxgGqkC9GGtJ3LQ/edit?usp=drive_link)
 
 ### Module 1 - Understanding Identity Risk
-* Lab 1 - Identify Basic Risks with SCA 
-* Lab 2 - Identify Permissions Gaps
-* Lab 3 - Identity "Risky" Permissions 
+* Lab 1 - [Identify Basic Risks with SCA](labs/module_1/01-identify-risk-with-static.md)
+* Lab 2 - [Identify Permissions Gaps](labs/module_1/02-identifying-permissions-gaps.md)
+* Information - [Identify "Risky" Permissions](https://www.datadoghq.com/state-of-cloud-security/)
 
 ### Presentation - Drive Down Risk
-* [Presentation Component]('https://example.xyz')
+* [Presentation Component](https://docs.google.com/presentation/d/1fmgdO0ZIbwYEPKHw11GLi2OxvuZ2T3O20Lt6qYmpZ0g/edit?usp=drive_link)
 
 ### Module 2 - Moving Identity and Access Closer to Developers
-* Lab 1 - Shifting Left
-* Lab 2 - Moving closer to developers
-* Lab 3 - Verify live in environment
+* Lab 1 - [Shifting Left](labs/module_2/01-shifting-left.md)
 
 ### Presentation - Everything as Code
-* [Presentation Component]('https://example.xyz')
+* [Presentation Component](https://docs.google.com/presentation/d/1SVTHqWLrOdQxh-SEHCBvZKT2s0SE6eg9zp6K1FCYvBQ/edit?usp=drive_link)
 
 ### Module 3 - 
-* Lab 1 - Speak my language
-* Lab 2 - Ask the hard questions
-* Lab 3 - Prove it with math!
+* Lab 1 - [Speak my language](labs/module_3/01-speak-my-language.md)
 
 ## Survey
 
-Did you take this workshop?  Run it own your own? Please take the [survey]('https://example.xyz')
+Did you take this workshop?  Run it own your own? Please take the [survey](https://forms.gle/hkR17f8Y8c5JKiJb9)
 
 ## DIY Version
 
